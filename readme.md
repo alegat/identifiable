@@ -12,6 +12,9 @@ does all the computation. Note that you can choose the number of random samples 
 ## plot_identifiable.m
 plots the solution.
 
+## search_counterex_decoupled.m
+tries to find networks which are decoupled-identifiable but not locally identifiable. No such network found so far.
+
 [HGB18] Hendrickx, Julien M., Michel Gevers, and Alexandre S. Bazanella. "Identifiability of dynamical networks with partial node measurements." IEEE Transactions on Automatic Control 64.6 (2018): 2240-2253.
 
 [CSV19] Cheng, Xiaodong, Shengling Shi, and Paul MJ Van den Hof. "Allocation of excitation signals for generic identifiability of linear dynamic networks." arXiv preprint arXiv:1910.04525v1 (2019).
